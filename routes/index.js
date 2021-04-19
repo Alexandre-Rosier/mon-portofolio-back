@@ -1,5 +1,7 @@
-// const slider = require('./slider') => exemple
+const homepage = require('./homepage')
+const upload = require('./upload')
 
-// module.exports = {
-//     slider              => exemple
-//   }
+module.exports = {
+  homepage,
+  upload
+}
